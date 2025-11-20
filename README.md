@@ -1,4 +1,3 @@
-.
 |-- Softic
 |   |-- APIGlobale.cs
 |   |-- Configurations
@@ -249,16 +248,23 @@
 |   |   |-- 20250406132429_GHJH.cs
 |   |   |-- 20250408130225_AddCompanySubscriptionsTable.Designer.cs
 |   |   |-- 20250408130225_AddCompanySubscriptionsTable.cs
-|   |   |-- 20250409110720_AddStartShiftTimeTableCompanyAndAddIsDelay,DelayTimeTableEmployeeAttendance.Designer.cs
-|   |   |-- 20250409110720_AddStartShiftTimeTableCompanyAndAddIsDelay,DelayTimeTableEmployeeAttendance.cs
-|   |   |-- 20250409112244_RemoveIsDalayAndDelayTimeFromEmployeeAttendance.Designer.cs
+|   |   |-- 20250409110720_AddStartShiftTimeTableCompanyAndAddIsDelay,DelayTimeT
+ableEmployeeAttendance.Designer.cs
+|   |   |-- 20250409110720_AddStartShiftTimeTableCompanyAndAddIsDelay,DelayTimeT
+ableEmployeeAttendance.cs
+|   |   |-- 20250409112244_RemoveIsDalayAndDelayTimeFromEmployeeAttendance.Desig
+ner.cs
 |   |   |-- 20250409112244_RemoveIsDalayAndDelayTimeFromEmployeeAttendance.cs
 |   |   |-- 20250409131241_Add MeetingDate Table CompanySubscription.Designer.cs
 |   |   |-- 20250409131241_Add MeetingDate Table CompanySubscription.cs
-|   |   |-- 20250413121824_Add Message, IsMessage, IsMeeting, and SubscriptionPlan to CompanySubscription.Designer.cs
-|   |   |-- 20250413121824_Add Message, IsMessage, IsMeeting, and SubscriptionPlan to CompanySubscription.cs
-|   |   |-- 20250413132739_Remove IsMessage,and IsMeeting From CompanySubscription.Designer.cs
-|   |   |-- 20250413132739_Remove IsMessage,and IsMeeting From CompanySubscription.cs
+|   |   |-- 20250413121824_Add Message, IsMessage, IsMeeting, and SubscriptionPl
+an to CompanySubscription.Designer.cs
+|   |   |-- 20250413121824_Add Message, IsMessage, IsMeeting, and SubscriptionPl
+an to CompanySubscription.cs
+|   |   |-- 20250413132739_Remove IsMessage,and IsMeeting From CompanySubscripti
+on.Designer.cs
+|   |   |-- 20250413132739_Remove IsMessage,and IsMeeting From CompanySubscripti
+on.cs
 |   |   |-- 20250414091718_HandleDateDay.Designer.cs
 |   |   |-- 20250414091718_HandleDateDay.cs
 |   |   |-- 20250420120513_RemoveWeekEndes.Designer.cs
@@ -293,16 +299,22 @@
 |   |   |-- 20250706085921_AddCompanySizeAndCompanyModule.cs
 |   |   |-- 20250708102812_Add Branch To EmployeeAttendanceLocation.Designer.cs
 |   |   |-- 20250708102812_Add Branch To EmployeeAttendanceLocation.cs
-|   |   |-- 20250714100559_Add ReferancePhoto And Signature To Company.Designer.cs
+|   |   |-- 20250714100559_Add ReferancePhoto And Signature To Company.Designer.
+cs
 |   |   |-- 20250714100559_Add ReferancePhoto And Signature To Company.cs
 |   |   |-- 20250714120654_Remove Flags From Company.Designer.cs
 |   |   |-- 20250714120654_Remove Flags From Company.cs
-|   |   |-- 20250715075119_Add Company ReferancePhotoFlag And SignatureFlag.Designer.cs
+|   |   |-- 20250715075119_Add Company ReferancePhotoFlag And SignatureFlag.Desi
+gner.cs
 |   |   |-- 20250715075119_Add Company ReferancePhotoFlag And SignatureFlag.cs
-|   |   |-- 20250716090454_Change properties To ReferancePhotoIsRequired And SignatureIsRequired.Designer.cs
-|   |   |-- 20250716090454_Change properties To ReferancePhotoIsRequired And SignatureIsRequired.cs
-|   |   |-- 20250716115936_Make Photo, Signature Properties Nullable Taple EmployeeAttendance.Designer.cs
-|   |   |-- 20250716115936_Make Photo, Signature Properties Nullable Taple EmployeeAttendance.cs
+|   |   |-- 20250716090454_Change properties To ReferancePhotoIsRequired And Sig
+natureIsRequired.Designer.cs
+|   |   |-- 20250716090454_Change properties To ReferancePhotoIsRequired And Sig
+natureIsRequired.cs
+|   |   |-- 20250716115936_Make Photo, Signature Properties Nullable Taple Emplo
+yeeAttendance.Designer.cs
+|   |   |-- 20250716115936_Make Photo, Signature Properties Nullable Taple Emplo
+yeeAttendance.cs
 |   |   |-- 20250729102813_AttendanceMain.Designer.cs
 |   |   |-- 20250729102813_AttendanceMain.cs
 |   |   |-- 20250729103706_AttendanceMainEdit.Designer.cs
@@ -371,7 +383,8 @@
 |   |   |-- 20250930084152_Add FinancialCustodies.cs
 |   |   |-- 20250930100154_Add FinancialCustodiesDbset.Designer.cs
 |   |   |-- 20250930100154_Add FinancialCustodiesDbset.cs
-|   |   |-- 20250930114351_Add Custom Validation On FinancialCustodiesDbset.Designer.cs
+|   |   |-- 20250930114351_Add Custom Validation On FinancialCustodiesDbset.Desi
+gner.cs
 |   |   |-- 20250930114351_Add Custom Validation On FinancialCustodiesDbset.cs
 |   |   |-- 20251001111026_Add BankTransfareFromEmployee.Designer.cs
 |   |   |-- 20251001111026_Add BankTransfareFromEmployee.cs
@@ -666,10 +679,6 @@
 |       |-- WasageCallBackDto.cs
 |       `-- WasageResponseDto.cs
 |-- Softic.sln
-
-
-
-
-
-
-
+|-- Softicy.BLL
+|   `-- Softicy.BLL.csproj
+`-- folder-structure.txt
