@@ -44,5 +44,5 @@ Softic.Solution/
 │   ├── Lookup/                      # All lookup DTOs (Branch, Department, etc.)
 │   └── Softic.DTO.csproj
 │
-└── Softic.sln                       # Main solution file
- 
+├── Softic.sln                       # Main solution file
+└── (Other minor projects like Softicy.BLL if any)
